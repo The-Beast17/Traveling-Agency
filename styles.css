@@ -226,7 +226,7 @@ nav .end button:hover{
 .page3{
     height : 100%;
     width : 100%;
-    padding : 3%;
+    padding :0 3%;
     display: flex;
 }
 
@@ -266,7 +266,7 @@ nav .end button:hover{
 .page3 .right {
     width : 50%;
     height : 100%;
-    padding : 3%;
+    padding : 0 3%;
     padding-top : 80px;
     display: flex;
     justify-content: center;
@@ -275,7 +275,7 @@ nav .end button:hover{
 
 .page3 .right .img-box{
    height : 100%;
-   width : 95%;
+   width : 100%;
    border-radius: 20px;
    overflow: hidden;
    position : relative;
